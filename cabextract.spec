@@ -6,7 +6,6 @@ Group: Archiving/Compression
 License: GPL
 Source: http://www.kyz.uklinux.net/downloads/%{name}-%{version}.tar.bz2
 URL: http://www.kyz.uklinux.net/cabextract.php3
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 Cabinet (.CAB) files are a form of archive, which Microsoft use to
