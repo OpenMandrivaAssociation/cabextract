@@ -1,7 +1,7 @@
 Summary: A program to extract Microsoft Cabinet files
 Name: cabextract
 Version: 1.3
-Release: %mkrel 2
+Release: %mkrel 3
 Group: Archiving/Compression
 License: GPLv2+
 Source: http://www.cabextract.org.uk/%{name}-%{version}.tar.gz
