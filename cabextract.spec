@@ -21,11 +21,11 @@ cabextract program simply unpacks such files.
 %make
 
 %install
-rm -rf ${RPM_BUILD_ROOT}
+rm -rf %{buildroot}
 %makeinstall_std
 
 %clean
-rm -rf ${RPM_BUILD_ROOT}
+rm -rf %{buildroot}
 
 %files
 %defattr(0644, root, root, 0755)
