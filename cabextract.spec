@@ -25,3 +25,5 @@ cabextract program simply unpacks such files.
 %files
 %doc AUTHORS ChangeLog NEWS README
 %{_bindir}/cabextract
+%{_mandir}/man1/cabextract.1*
+
