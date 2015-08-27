@@ -1,2 +1,5 @@
+removed_sources:
+  cabextract-1.4.tar.gz: b1d5dd668d2dbe95b47aad6e92c0b7183ced70f1
+  cabextract-1.5.tar.gz: 7ddb31072590a807bef09234f46f940e1ba51067
 sources:
-  "cabextract-1.4.tar.gz": b1d5dd668d2dbe95b47aad6e92c0b7183ced70f1
+  cabextract-1.6.tar.gz: 64f6d5056d3e417a943648c23cb22218b7079ced
