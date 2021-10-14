@@ -1,7 +1,7 @@
 Summary:	A program to extract Microsoft Cabinet files
 Name:		cabextract
 Version:	1.9.1
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Archiving/Compression
 Url:		http://www.cabextract.org.uk
@@ -21,11 +21,11 @@ simply unpacks such files.
 #----------------------------------------------------------------------------
 
 %prep
-%setup -q
+%autosetup -p1
 
 %build
 %configure
-%make
+%make_build
 
 %install
 %make_install
