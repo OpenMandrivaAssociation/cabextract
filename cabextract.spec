@@ -4,7 +4,7 @@ Version:	1.11
 Release:	2
 License:	GPLv2+
 Group:		Archiving/Compression
-Url:		http://www.cabextract.org.uk
+Url:		https://www.cabextract.org.uk
 Source0:	http://www.cabextract.org.uk/%{name}-%{version}.tar.gz
 BuildRequires:	autoconf automake gettext-devel
 
