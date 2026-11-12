@@ -1,13 +1,12 @@
 Summary:	A program to extract Microsoft Cabinet files
 Name:		cabextract
-Version:	1.11
-Release:	2
+Version:	1.12
+Release:	1
 License:	GPLv2+
 Group:		Archiving/Compression
 Url:		https://www.cabextract.org.uk
 Source0:	http://www.cabextract.org.uk/%{name}-%{version}.tar.gz
-BuildRequires:	libtool-base
-BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	autoconf automake gettext-devel
 
 %description
